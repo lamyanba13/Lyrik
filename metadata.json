@@ -1,0 +1,6 @@
+{
+  "name": "Lyrik",
+  "description": "Interactive educational platform for Class 8, 9, and 10 students specializing in Mathematics and Science with interactive lessons, chapter quizzes, performance analytics, and an AI doubt solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
